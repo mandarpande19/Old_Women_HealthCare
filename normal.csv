@@ -1,0 +1,9 @@
+DAYS,*****,MORNING,****,***,**,AFTERNOON,*,            ^,EVENING,^^,NIGHT,^^^
+day,EXERCISE,BREAKFAST,TABLET,REST,   LUNCH,TABLET,REST,  TEA TIME,REST,   DINNER,TABLET,SLEEP
+MONDAY,7 to 7:30,Fruits / juices,Tablet1,10 to 11:30,"chapati,dal,rice,salad,mix veg","Tablet2,tablet3",1:30 to 3,4 to 4:30 ,5 to 6:30,"chapati,dal,milk,salad,capsicum","Tablet4,tablet5",9:00
+TUESDAY,7 to 7:30,Green veges,Tablet1,10 to 11:30,"chapati,dal,rice,salad, branijal","Tablet2,tablet3",1:30 to 3,4 to 4:30 ,5 to 6:30,"chapati,dal,milk,salad,green beans","Tablet4,tablet5",9:00
+WEDNESDAY,7 to 7:30,oats,Tablet1,10 to 11:30,"chapati,dal,rice,salad,bittlegrad","Tablet2,tablet3",1:30 to 3,4 to 4:30,5 to 6:30,"chapati,dal,milk,salad,spinach","Tablet4,tablet5",9:00
+THRUSDAY,7 to 7:30,milk /nuts,Tablet1,10 to 11:30,"chapati,dal,rice,salad,paneer","Tablet2,tablet3",1:30 to 3,4 to 4:30 ,5 to 6:30,"chapati,dal,milk,salad,lady finger","Tablet4,tablet5",9:00
+FRIDAY,7 to 7:30,vegetable Salad,Tablet1,10 to 11:30,"chapati,dal,rice,salad,pumpkin","Tablet2,tablet3",1:30 to 3,4 to 4:30 ,5 to 6:30,"chapati,dal,milk,salad,broccoli","Tablet4,tablet5",9:00
+SATURDAY,7 to 7:30,bread & butter,Tablet1,10 to 11:30,"chapati,dal,rice,salad,cauliflower","Tablet2,tablet3",1:30 to 3,4 to 4:30 ,5 to 6:30,"chapati,dal,milk,salad,jackfruit","Tablet4,tablet5",9:00
+SUNDAY,7 to 7:30,Sprouts salad,Tablet1,10 to 11:30,"chapati,dal,rice,salad,cabbage","Tablet2,tablet3",1:30 to 3,4 to 4:30 ,5 to 6:30,"chapati,dal,milk,salad,potatoes","Tablet4,tablet5",9:00
